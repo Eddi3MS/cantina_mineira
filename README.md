@@ -12,7 +12,9 @@ https://user-images.githubusercontent.com/75024157/154678575-99c0e27c-0cd8-4b3b-
 - React-toastify,
 - Firebase/Firestore.
 
-### Para rodar o projeto, você precisa criar um banco de dados firestore e configurar o arquivo firebase-config com seus dados
+### Para rodar o projeto, você precisa:
+
+- Criar um banco de dados firestore e configurar um arquivo firebase-config, dentro da pasta src com seus dados:
 
 ```js
 import { initializeApp } from "firebase/app";
